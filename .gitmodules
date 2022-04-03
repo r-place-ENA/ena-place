@@ -1,0 +1,3 @@
+[submodule "greenlattice-place"]
+	path = greenlattice-place
+	url = git@github.com:r-place-ENA/greenlattice-place.git
